@@ -1,0 +1,3 @@
+peli accion 1
+peli accion 2
+peli accion 3
